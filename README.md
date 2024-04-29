@@ -1,2 +1,2 @@
 # bookbot
-Building a bookbot.
+Building a bookbot with Ubuntu and Python in VSCode.
